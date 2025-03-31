@@ -1,3 +1,5 @@
+package com.tecsup.funcionalidad;
+
 public class Funcionalidad {
     public static String saludar(String nombre) {
         return "Hola, " + nombre + "!";
