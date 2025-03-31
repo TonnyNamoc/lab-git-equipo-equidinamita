@@ -4,7 +4,7 @@ public class Funcionalidad {
     }
 
     public static void main(String[] args) {
-        String saludo = saludar("Juan");
+        String saludo = saludar("Pepe");
         System.out.println(saludo);
     }
 }
