@@ -1,1 +1,1 @@
-Proyecto Evaluado
+Equipo Dinamita 
